@@ -1,0 +1,10 @@
+streamlit 
+diffusers 
+transformers 
+torch 
+accelerate 
+scipy 
+safetensors 
+pyngrok 
+pillow
+huggingface_hub
