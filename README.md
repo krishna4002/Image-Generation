@@ -48,7 +48,7 @@ The goal is to provide **non-programmers and enthusiasts** with the ability to c
 ├── app.py                     # Main Streamlit app
 ├── requirements.txt           # Required Python libraries
 ├── README.md                  # Documentation (this file)
-└── Image_Generation.ipynb     # Whole work on my project
+└── Image_Generation.ipynb     # Whole work of my project
 ```
 
 ---
