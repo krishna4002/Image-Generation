@@ -66,7 +66,7 @@ cd Image-Generation
 ### Step 2: Create and activate a virtual environment
 ```bash
 python -m venv venv
-source venv/bin/activate    # On Windows: venv\Scripts\activate
+venv\Scripts\activate
 ```
 
 ### Step 3: Install dependencies
