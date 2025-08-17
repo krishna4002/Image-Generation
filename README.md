@@ -20,10 +20,6 @@ The goal is to provide **non-programmers and enthusiasts** with the ability to c
 
 ---
 
-##  Live Demo                                       
-
-👉 **Try the app here:** [Image Generation](https://0be1e98ffdd0.ngrok-free.app/)
-
 ## What Can You Do With This App?
 
 | Mode              | What it Does                                                                 |
